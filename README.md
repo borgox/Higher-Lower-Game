@@ -15,4 +15,4 @@ Run
 python3 main.py
 ```
 
-##Idea from: [What To Code](https://what-to-code.com)
+## Idea from: [What To Code](https://what-to-code.com)
