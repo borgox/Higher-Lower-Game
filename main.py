@@ -8,7 +8,7 @@ import time
 import ctypes
 global winstreak
 winstreak = 0
-
+os.system("cls" if os.name == "nt" else "clear")
 class fg:
   black = "\u001b[30m"
   red = "\u001b[31m"
